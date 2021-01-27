@@ -1,6 +1,4 @@
 # GitHub-Jenkins-Integration
 
 
-COMMIT 1
-COMMIT 2
-COMMIT 3
+GITHUB COMMIT 1 - JENKINS AUTOBUILD 1
